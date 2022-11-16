@@ -25,3 +25,26 @@ ____________________________________
             "type_atack":"tipo-de-ataque",
             "descripcion": "una-descripcion"
          }
+# Endpoints ATRIBUTOS
+____________________________________
+# Metodo GET
+## Obten informacion de un atributo(por ID):
+#### URL ------------ /api/atributos/(ID)
+## Obten informacion de todos los atributos: 
+#### URL ------------ /api/atributos
+# Metodo POST
+## Agréga atributo en formato jSON :
+         { 
+            "nombre":"un-atributo",
+         }
+# Metodo DELETE
+## Elimina un atributo(por ID):
+#### URL ------------ /api/atributos/(ID)
+# Metodo PUT
+## Modifica informacion de un atributo(por ID) en formato JSON:
+#### URL ------------ /api/atributos/(ID)
+
+         { 
+            "nombre":"un-heroe",
+         }
+         
