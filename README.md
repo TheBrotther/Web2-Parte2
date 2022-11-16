@@ -45,6 +45,6 @@ ____________________________________
 #### URL ------------ /api/atributos/(ID)
 
          { 
-            "nombre":"un-heroe",
+            "nombre":"un-atributo",
          }
          
