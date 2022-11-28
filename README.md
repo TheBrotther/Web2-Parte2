@@ -25,6 +25,7 @@ ____________________________________
             "type_atack":"tipo-de-ataque",
             "descripcion": "una-descripcion"
          }
+____________________________________
 # Endpoints ATRIBUTOS
 ____________________________________
 # Metodo GET
